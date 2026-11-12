@@ -1,0 +1,7 @@
+{
+  "name": "Chained Formula Calculator",
+  "description": "Real-time automatic formula calculator with dependent chained calculation pipeline, step-by-step breakdown, and snapshot history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
